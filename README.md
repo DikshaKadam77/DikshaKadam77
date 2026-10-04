@@ -35,6 +35,13 @@ Animal rescue management system built with React, Spring Boot and MySQL.
 📊 **PricePulse**
 Price tracking / monitoring web application.
 
+🎨 **Interests**
+Software Development
+Artificial Intelligence & Machine Learning
+UI/UX Design
+Computer Vision
+Building practical web applications
+
 ## 📫 Connect With Me
 
 - LinkedIn: (https://www.linkedin.com/in/diksha-kadam-862715324)
