@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Diksha Kadam 👋
 
-<!--
-**DikshaKadam77/DikshaKadam77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Engineering Student  
+💻 Software Development | AI/ML | UI/UX  
+📍 Mumbai, India
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an IT engineering student interested in building practical
+web applications and AI-powered projects.
+
+Currently learning:
+- React.js
+- Django
+- DSA with Python
+
+### 🛠️ Tech Stack
+
+**Languages**
+Python • JavaScript • Java • SQL
+
+**Web Development**
+HTML • CSS • React.js • Django
+
+**Databases**
+MySQL • Firebase
+
+**Tools**
+Git • GitHub • Figma
+
+### 🚀 Featured Projects
+
+🔹 **PawTrack**
+Animal rescue management system built with React, Spring Boot and MySQL.
+
+🔹 **PricePulse**
+Price tracking / monitoring web application.
+
+## 📫 Connect With Me
+
+- LinkedIn: (https://www.linkedin.com/in/diksha-kadam-862715324)
+- Email: dikshakadam77199@gmail.com
