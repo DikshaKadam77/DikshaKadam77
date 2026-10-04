@@ -36,11 +36,11 @@ Animal rescue management system built with React, Spring Boot and MySQL.
 Price tracking / monitoring web application.
 
 🎨 **Interests**
-Software Development
-Artificial Intelligence & Machine Learning
-UI/UX Design
-Computer Vision
-Building practical web applications
+- Software Development
+- Artificial Intelligence & Machine Learning
+- UI/UX Design
+- Computer Vision
+- Building practical web applications
 
 ## 📫 Connect With Me
 
