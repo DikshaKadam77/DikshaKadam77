@@ -6,13 +6,9 @@
 
 ### 👩‍💻 About Me
 
-I'm an IT engineering student interested in building practical
-web applications and AI-powered projects.
+I'm an Information Technology engineering student interested in building practical web applications, AI/ML projects, and user-friendly digital products.
 
-Currently learning:
-- React.js
-- Django
-- DSA with Python
+I enjoy turning ideas into functional projects and exploring different areas of software development
 
 ### 🛠️ Tech Stack
 
@@ -25,15 +21,18 @@ HTML • CSS • React.js • Django
 **Databases**
 MySQL • Firebase
 
-**Tools**
+**AI / Machine Learning**
+Python • OpenCV • MediaPipe
+
+**Tools & Design**
 Git • GitHub • Figma
 
 ### 🚀 Featured Projects
 
-🔹 **PawTrack**
+ 🐾 **PawTrack**
 Animal rescue management system built with React, Spring Boot and MySQL.
 
-🔹 **PricePulse**
+📊 **PricePulse**
 Price tracking / monitoring web application.
 
 ## 📫 Connect With Me
